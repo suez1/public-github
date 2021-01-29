@@ -1,2 +1,2 @@
 # public-github
-This is for test ourpose.
+This is for test purpose.
